@@ -1,4 +1,5 @@
-# PROCESSING MAS-SEQ DATA 
+# PROCESSING LONG READS PACBIO MAS-SEQ DATA 
+
 
 ![picture alt](./content/imag/1_overview.png)
 
